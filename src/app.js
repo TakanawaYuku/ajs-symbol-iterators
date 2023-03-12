@@ -3,7 +3,7 @@ import Team from './team';
 
 const team = new Team();
 const char = new Person({
-  name: 'Лучник',
+  name: 'Леголас',
   type: 'Bowman',
   health: 50,
   level: 1,
