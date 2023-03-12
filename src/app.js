@@ -11,7 +11,7 @@ const char = new Person({
   defence: 10,
 });
 const char1 = new Person({
-  name: 'Салем',
+  name: 'Вельзевул',
   type: 'Daemon',
   health: 100,
   level: 2,
@@ -19,7 +19,7 @@ const char1 = new Person({
   defence: 40,
 });
 const char2 = new Person({
-  name: 'Гном',
+  name: 'Гимли',
   type: 'Gnome',
   health: 45,
   level: 1,
